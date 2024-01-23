@@ -3,15 +3,16 @@
 <h1 align="center">Hi 👋, I'm Shobuj Ahmed and also known as CodeGreen</h1>
 <h3 align="center">a MERN developer with 1 year of experience. I'm passionate about programming and serious about my tech career. I live in Bangladesh and I'm looking for freelance work.</h3>
 
-- 🌱 I’m currently learning **NextJs,TypeScript**
 
+- 📫 How to reach me **codegreen19s@gmail.com**
+- 
 - 👨‍💻 All of my projects are available at [https://codegreen-portfolio.onrender.com/](https://codegreen-portfolio.onrender.com/)
 
 - 💬 Ask me about **ReactJs**
+  
+- 🌱 I’m currently learning **NextJs,TypeScript**
 
-- 📫 How to reach me **codegreen19s@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
